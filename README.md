@@ -21,5 +21,5 @@
 </p>
 
 
-// https://simpleicons.org/?q=compose
-// https://shields.io/
+<!-- https://simpleicons.org/?q=compose -->
+<!--  https://shields.io/ -->

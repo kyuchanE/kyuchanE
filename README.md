@@ -47,10 +47,11 @@
 | Area | Skills |
 | --- | --- |
 | Android | `Kotlin`, `Java`, `Jetpack Compose` |
+| iOS | `Swift` |
+| Frontend | `React`, `TypeScript`, `Vite`, `Next`, `Tailwind CSS` |
 | Architecture | `MVVM`, `CleanArchitecture`, `UseCase`, `Repository`, `Multi Module` |
 | DI / Async | `Hilt`, `Coroutines`, `Flow` |
-| Network / Storage | `Retrofit`, `OkHttp`, `Moshi`, `DataStore`, `Room` |
-| Frontend | `React`, `TypeScript`, `Vite`, `Next`, `Tailwind CSS` |
+| Network / Storage | `Retrofit`, `OkHttp`, `Moshi`, `DataStore`, `Room`, `Alamofire` |
 | CICD / Deploy | `Github Action`,`Github WebHook`, `Docker`, `Nginx` |
 
 ## 🗂️ Featured Projects
